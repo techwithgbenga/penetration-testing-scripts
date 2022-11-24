@@ -6,9 +6,9 @@ Here is a curated collection penetration scripts from basic to advance. It is a 
 
 - **Python**
 
-  - [NmapScanner]
-    - [WifiSniffer]
-    - [ArpScanner]
+  - [nmapScanner]
+    - [wifiSniffer]
+    - [arpScanner]
 
 - **Powershell**
 
@@ -16,8 +16,8 @@ Here is a curated collection penetration scripts from basic to advance. It is a 
   - [WindowsPortScanner]
 
 - **Bash / Batch**
-  - [ForkBOmber]
-  - [DnsResolver]
+  - [forkBOmber]
+  - [snsResolver]
 
 ## Contribution
 
