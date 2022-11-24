@@ -16,7 +16,7 @@ Here is a curated collection penetration scripts from basic to advance. It is a 
   - [windowsPortScanner]
 
 - **Bash / Batch**
-  - [forkBOmber]
+  - [forkBomber]
   - [snsResolver]
 
 ## Contribution
